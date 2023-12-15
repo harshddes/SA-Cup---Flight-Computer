@@ -1,5 +1,4 @@
-# SA-Cup---Flight-Computer
-# Rocket Flight-Simulator
+# SA-Cup---Rocket Flight-Simulator
 
 # Methodology
 The flight simulator is being developed using Python. The software uses the thrust curve data, Rocket data to run a simulation loop, which calculates all the variables at each time step, thus simulating the entire Flight.
